@@ -44,3 +44,7 @@ Accessibility was considered by maintaining sufficient color contrast and font r
 
 Conclusion
 This web page reflects my passion for front-end development and interactive UI/UX design. By combining HTML, CSS, and JavaScript in a clean and modular fashion, I was able to deliver a lightweight yet powerful educational tool. This project not only sharpens coding skills but also demonstrates how dynamic user interfaces can be created from scratch using vanilla web technologies—without the need for frameworks or libraries. It is suitable for educational platforms, personal learning, or as a portfolio project.
+
+#Output
+
+<img width="1360" height="636" alt="Image" src="https://github.com/user-attachments/assets/a5ef022c-7fe1-412f-8dd9-95cd37565152" />
